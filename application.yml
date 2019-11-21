@@ -9,4 +9,6 @@ spring:
       ddl-auto: update
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
-
+  jackson:
+    serialization:
+      fail-on-empty-beans: false
