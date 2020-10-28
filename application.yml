@@ -25,3 +25,6 @@ spring:
     multipart:
       max-file-size: 200MB
       max-request-size: 200MB
+      enabled: true
+file:
+  upload-dir: D:\Documentos\Ambiente SMAP
