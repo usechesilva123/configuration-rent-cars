@@ -27,4 +27,4 @@ spring:
       max-request-size: 200MB
       enabled: true
 file:
-  upload-dir: D:\Documentos\Ambiente SMAP
+  upload-dir: C:\Users\paola\Documents\Universidad 2 semestre 2020\Software de ingenieria\Documentos
