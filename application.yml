@@ -27,4 +27,4 @@ spring:
       max-request-size: 200MB
       enabled: true
 file:
-  upload-dir: D:\Documentos\Ambiente SMAP
+  upload-dir: C:\Documentos\
