@@ -35,5 +35,16 @@ spring:
       max-file-size: 200MB
       max-request-size: 200MB
       enabled: true
+  mail:
+    username: duseches@unbosque.edu.co
+    password: 789512357
+    properties:
+      mail:
+        smtp:
+          port: 25
+          auth: true
+          starttls.enable: true
+          starttls.required: true
 file:
   upload-dir: C:\Documentos\
+  
