@@ -36,8 +36,8 @@ spring:
       max-request-size: 200MB
       enabled: true
   mail:
-    username: duseches@unbosque.edu.co
-    password: 789512357
+    username: _
+    password: _
     properties:
       mail:
         smtp:
