@@ -46,5 +46,5 @@ spring:
           starttls.enable: true
           starttls.required: true
 file:
-  upload-dir: C:\Documentos\
+  upload-dir: /home/ubuntu/Documents/Proyectos/Proyecto nomina/NominaPN/reports
   
